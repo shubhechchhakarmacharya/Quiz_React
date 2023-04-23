@@ -1,0 +1,41 @@
+body {
+  background: linear-gradient(158deg, #7faf9c, #12d1cf3d, #3300ff82);
+  background-repeat: no-repeat;
+}
+
+div {
+  margin: 50px 0px 50px 50px;
+
+}
+
+input {
+  margin-inline-start: 30px;
+}
+
+a {
+  color: #070707;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+img {
+  inline-size: 50px;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+.button {
+  margin: 10px 10px 10px 90px;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 10px 50px;
+  font-size: 18px;
+  background: #ababfc;
+  cursor: pointer;
+  box-shadow: 0px 3px 12px 6px #c0d2f7;
+}
