@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(158deg, #7faf9c, #12d1cf3d, #3300ff82);
+  background: linear-gradient(158deg, #112450, #1123594a, #12235d);
   background-repeat: no-repeat;
 }
 
@@ -35,7 +35,8 @@ button {
   border-radius: 5px;
   padding: 10px 50px;
   font-size: 18px;
-  background: #ababfc;
+  background: #1022535e;
   cursor: pointer;
   box-shadow: 0px 3px 12px 6px #c0d2f7;
+  color: white;
 }

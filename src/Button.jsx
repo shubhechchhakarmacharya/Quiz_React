@@ -4,12 +4,9 @@
 
 function Button() {
     const button = () => {
-        // const [score, setScore] = useState(0)
-        // if(value === ans){
-        //     setScore += score
-        //     alert(setScore)
-        // }
-        alert("Know you result.")
+        let [score, setScore] = useState( )
+        let num = setScore(score+25);
+        alert(num);
     }
     return (
         <div className="button">
